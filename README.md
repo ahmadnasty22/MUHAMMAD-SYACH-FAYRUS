@@ -138,67 +138,7 @@ Understanding how machines execute code
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,50:7a00ff,100:ff00ff&height=3&width=100%" />
 
-## Projects
 
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Warehouse Management System
-
-A data processing project involving sorting algorithms, hash tables, and CSV data management.
-
-**Tech:** Python · Algorithms · CSV
-
-[View Repository →](#)
-
-</td>
-
-<td width="50%" valign="top">
-
-### Project 02
-
-A project focused on applying programming concepts and problem-solving techniques.
-
-**Tech:** C++ · OOP
-
-[View Repository →](#)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Project 03
-
-An academic project exploring databases, data modeling, and structured information management.
-
-**Tech:** SQL · Database
-
-[View Repository →](#)
-
-</td>
-
-<td width="50%" valign="top">
-
-### Project 04
-
-A web development project built while exploring modern web technologies.
-
-**Tech:** HTML · CSS · JavaScript
-
-[View Repository →](#)
-
-</td>
-
-</tr>
-
-</table>
 
 <br/>
 
