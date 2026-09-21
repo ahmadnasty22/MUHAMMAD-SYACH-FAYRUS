@@ -191,7 +191,7 @@ Running is part of who I am, not just something I do between coding sessions. I 
 <img
   src="./personal-best.svg"
   width="760"
-  alt="Personal Best - 5K 00:19:44, 10K 00:41:46, 21K 01:51:59"
+  alt="Personal Best - 5K 00:19:41, 10K 00:41:28, 15k 1:11:26, 21K 01:53:52"
 />
 
 <br/><br/>
